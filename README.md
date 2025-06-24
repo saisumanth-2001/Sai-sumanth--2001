@@ -16,7 +16,7 @@
 
 ## 🚀 Projects
 
-- 🔗 [Job Portal App – Django + React](https://github.com/saisumanth-2001/job-portal-django-react)
+- 🔗 [Job Portal App – Django + React](https://github.com/saisumanth-2001/job-portal)
 - 🔗 [Deployment Blog Resources](https://github.com/saisumanth-2001/Blog-for-deployment)
 - More coming soon…
 
